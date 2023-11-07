@@ -1,5 +1,5 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
-🔍 Desenvolvi uma aplicação para gerar a tabuada de um número fornecido pelo usuário, utilizando React.
+🔍 Sistema de contagem de numeros em React, onde voce define o inicio, fim e o passo. 
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
 * Instalar a pasta <strong>node_modules</strong>
